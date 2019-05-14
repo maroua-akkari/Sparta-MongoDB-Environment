@@ -13,5 +13,5 @@ To run MongoDB:
 1. In the terminal clone this repository and go into the directory.
 2. Run the command `vagrant up`.
 3. Run the command `vagrant ssh` to enter the virtual ubuntu machine.
-3. Run the command `mongo`.
+3. Run the command `mongo` to use it.
 4. To end this session run the command `vagrant destroy` in the terminal.
